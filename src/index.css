@@ -1,7 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
+@import url(https://fonts.googleapis.com/css?family=Source+Code+Pro);
 
 body {
   margin: 0;
@@ -12,6 +12,9 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.mobile-nav {
+  @apply block md:hidden fixed top-10 py-2 w-full h-full bg-zinc-800 duration-500;
+} 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
