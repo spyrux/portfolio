@@ -5,6 +5,9 @@ import Typical from "react-typical";
 import {
   PiGitlabLogoSimpleThin,
   PiLinkedinLogoThin,
+  PiFileTextThin
+  
+
 } from "react-icons/pi";
 
 const Hero = () => {
@@ -41,14 +44,17 @@ const Hero = () => {
               {" "}
               <PiLinkedinLogoThin size={40} />{" "}
             </a>
+
+            <a
+              href="https://drive.google.com/file/d/14fy3n1xpNgaa4vOPWecCIrmsuTeQ4181/view?usp=sharing"
+              className="pr-4 inline-block text-accent hover:text-white"
+            >
+              {" "} 
+              <PiFileTextThin size={40} />{" "}
+            </a>
           </div>
 
-          <a
-            href="https://drive.google.com/file/d/14fy3n1xpNgaa4vOPWecCIrmsuTeQ4181/view?usp=sharing"
-            className=" btn bg-accent border-2 rounded border-[#7477FF] text-white px-6 py-3 hover:bg-transparent"
-          >
-            View Resume
-          </a>
+
         </div>
 
         <div className="hero-img py-10 md: py-0">
