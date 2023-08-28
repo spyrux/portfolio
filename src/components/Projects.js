@@ -9,7 +9,7 @@ const Projects = () => {
     
         
         <section className="bg-primary px-12 text-white py-0 md:py-40 m-10 pb-5 md:pb-0 " id="projects">
-            <h1 className="text-align: center md:px-36 m-10">
+            <h1 className="text-align: center md:px-32 m-10">
                 <p className="text-3xl lg:text-4xl font-mono">Projects</p>
 
 
