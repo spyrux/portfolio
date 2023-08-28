@@ -1,14 +1,14 @@
 
 import FSImage from "../assets/futurestore.png";
 import CCImage from "../assets/ccdefault.png";
-import RBCImage from "../assets/rbc.png"
+
 
 const Projects = () => {
 
     return(
     
         
-        <section className="bg-primary px-10 text-white py-0 md:py-40 m-10 pb-5 md:pb-0 " id="projects">
+        <section className="bg-primary px-12 text-white py-0 md:py-40 m-10 pb-5 md:pb-0 " id="projects">
             <h1 className="text-align: center md:px-36 m-10">
                 <p className="text-3xl lg:text-4xl font-mono">Projects</p>
 

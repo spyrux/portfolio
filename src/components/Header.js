@@ -7,7 +7,7 @@ const Header = () => {
   const handleToggle = () => setToggle(!toggle);
 
   return (
-    <header className="flex justify-between px-10 py-5 bg-primary text-white w-full fixed z-10">
+    <header className="flex justify-between px-5 py-5 bg-primary text-white w-full fixed z-10">
       <a href="/" className=" opacity-0 md:opacity-100 logo text-2xl font-bold text-accent z-50">
         WC
       </a>
