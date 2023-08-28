@@ -29,7 +29,7 @@ const About = () => {
                             I have experience working with Full-Stack Development and Data Analysis. Currently working on learning DevOps.</p>
                             <p>
                         <br></br>
-                            &nbsp;	&nbsp;My expertise lie in Java, Python, ReactJS, NextJS AWS, and SQL. I am currently looking for a new graduate or junior position for software related roles. 
+                            &nbsp;	&nbsp;My expertise lie in Java, Python, ReactJS, NextJS, AWS, and SQL. I am currently looking for a new graduate or junior position for software related roles. 
                             In my spare time I enjoy building projects, writing and producing music, and DJing.
 
 
@@ -52,7 +52,7 @@ const About = () => {
                             My name is William Cui and I am an avid problem solver and engineer working to build innovative solutions. I graduated from the 
                             University of British Columbia with a Bachelor's of Science with a focus in Computer Science and Mathematics. 
                             I have experience working with Full-Stack Development and Data Analysis, and currently working on learning DevOps.
-                            My expertise lie in Java, Python, ReactJS, NextJS AWS, and SQL. I am currently looking for a new graduate or junior position for software related roles.
+                            My expertise lie in Java, Python, ReactJS, NextJS, AWS, and SQL. I am currently looking for a new graduate or junior position for software related roles.
 
 
                         </p>

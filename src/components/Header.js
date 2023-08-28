@@ -38,13 +38,13 @@ const Header = () => {
         
         <ul className="flex flex-col font-mono text-3xl py-20 m-12 space-y-2">
             
-            <a href ="/#about" >About</a>
+            <a onClick={handleToggle} href ="/#about" >About</a>
           
           
-            <a href ="/#experience">Experience</a>
+            <a onClick={handleToggle} href ="/#experience">Experience</a>
           
           
-            <a href = "/#projects" >Projects</a>
+            <a onClick={handleToggle} href = "/#projects" >Projects</a>
          
           
             <a href="https://drive.google.com/file/d/14fy3n1xpNgaa4vOPWecCIrmsuTeQ4181/view?usp=sharing" target="_blank" >
